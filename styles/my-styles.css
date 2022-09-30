@@ -1,0 +1,23 @@
+#welcome {
+  background-color: salmon;
+}
+
+#about {
+  background-color: cornflowerblue;
+}
+
+#welcome,
+#about,
+#new-para {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+#about p {
+  color: white;
+}
+
+#about h2 {
+  color: white;
+}
